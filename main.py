@@ -1,6 +1,6 @@
 #Megvalósításra vár még:
 #1 Az index alapú törlés az összes 3-as szobaszámú foglalást törli
-#2 A plusz szobák hozzáadásánál 3 felé megy a szobák indexe
+#2 A plusz szobák hozzáadásánál 3 felé megy a szobák indexe (a szoba száma)
 
 import tkinter as tk
 from tkinter import messagebox
