@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "type": "egyagyas",
+        "date": "2023-12-31",
+        "ar": 2000
+    },
+    {
+        "id": 2,
+        "type": "ketagyas",
+        "date": "2024-12-24",
+        "ar": 3000
+    },
+    {
+        "id": 2,
+        "type": "ketagyas",
+        "date": "2024-05-02",
+        "ar": 3000
+    },
+    {
+        "id": 1,
+        "type": "egyagyas",
+        "date": "2024-11-23",
+        "ar": 2000
+    },
+    {
+        "id": 1,
+        "type": "egyagyas",
+        "date": "2024-05-16",
+        "ar": 2000
+    }
+]
