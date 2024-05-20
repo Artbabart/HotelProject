@@ -1,5 +1,5 @@
 class Hotel:
-    bookings = []  # Osztályváltozóként tároljuk a foglalásokat
+    bookings = []
 
     def __init__(self, name, booking):
         self.name = name
